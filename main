@@ -1,0 +1,7 @@
+echo "# potential--computing-machine"READMEmd
+git init
+git add READMEmd
+git commitm "first commit"
+git branchM main
+git remote add origin
+git pushu origin main
